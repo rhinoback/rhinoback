@@ -1,5 +1,5 @@
 ### Hi there 👋
-- 🔭 I’m currently working on content production.
+- 🔭 I’m currently working on content production. Thinkng about Tom and all the other animals https://www.youtube.com/watch?v=jaC0xtT9Zug
 - 🌱 I’m currently learning making videos on YouTube and trying to practice Python more regularly.
 - 👯 I’m looking to collaborate on cool video and Python projects.
 - 🤔 I’m looking for help with film and video and GeoMapping and Python projects.
